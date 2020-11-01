@@ -1,4 +1,4 @@
-package com.example.helloandroidmvvm
+package com.example.helloandroidmvvm.retrofit
 
 import com.example.helloandroidmvvm.model.NewsResponse
 import retrofit2.Call
